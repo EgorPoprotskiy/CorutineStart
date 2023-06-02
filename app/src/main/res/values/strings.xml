@@ -3,4 +3,5 @@
     <string name="city">City:</string>
     <string name="temperature">Temperature:</string>
     <string name="download">Download</string>
+    <string name="load_temperature_toast">Load temperature toast</string>
 </resources>
